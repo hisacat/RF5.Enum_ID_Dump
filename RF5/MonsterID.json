@@ -1,0 +1,7859 @@
+{
+  "IDType": "MonsterID",
+  "Values": [
+    {
+      "ID": "enm001_Ork_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "オーク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Orc"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "兽人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獸人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오크"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Ork"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "オークアーチャー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Orc Archer"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "兽人射手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獸人射手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오크 아처"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque archer"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Ork-Bogenschütze"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "オークバイキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Orc Viking"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "维京兽人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "維京獸人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오크 바이킹"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque viking"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Orkwikinger"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "オークキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Orc King"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "兽人王"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獸人王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오크 킹"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Roi orque"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Orkkönig"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "オークハンター"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Orc Hunter"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "兽人猎手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獸人獵手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오크 헌터"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque chasseur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Orkjäger"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハイオーク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "High Orc"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "高等兽人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "高等獸人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "하이 오크"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Grand orque"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hochork"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハイオークバイキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "High Orc Viking"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "高等维京兽人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "高等維京獸人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "하이 오크 바이킹"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Grand orque viking"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hochork-Wikinger"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_08",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークオーク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Orc"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗兽人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗獸人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 오크"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque des ténèbres"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelork"
+        }
+      ]
+    },
+    {
+      "ID": "enm001_Ork_09",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ライダーオーク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Rider Orc"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "兽人骑手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獸人騎手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "라이더 오크"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Orque cavalier"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Reiterork"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "哥布林"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "哥布林"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblin"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリンアーチャー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin Archer"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "哥布林射手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "哥布林射手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린 아처"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin archer"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblin-Bogenschütze"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリンパイレーツ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin Pirate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "哥布林海盗"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "哥布林海盜"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린 해적"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin pirate"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblinpirat"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ホブゴブリン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hobgoblin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大哥布林"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大哥布林"
+        },
+        {
+          "Lang": "KR",
+          "Name": "홉 고블린"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Terribelin"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kobold"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリンキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin King"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "哥布林王"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "哥布林王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린 킹"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Roi gobelin"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblinkönig"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリンスナイパー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin Sniper"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "哥布林狙击手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "哥布林狙擊手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린 스나이퍼"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin tireur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblin-Scharfschütze"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴブリンバイキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goblin Viking"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "维京哥布林"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "維京哥布林"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고블린 바이킹"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin viking"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Goblinwikinger"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_08",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ライジングゴブリン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Lightning Goblin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "愤怒哥布林"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "憤怒哥布林"
+        },
+        {
+          "Lang": "KR",
+          "Name": "라이트닝 고블린"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin foudroyant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blitzgoblin"
+        }
+      ]
+    },
+    {
+      "ID": "enm002_Goblin_09",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークゴブリン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Goblin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗哥布林"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗哥布林"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 고블린"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gobelin des ténèbres"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelgoblin"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "トロル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Troll"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "트롤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Troll"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Troll"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハンマートロル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hammer Troll"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大锤巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大錘巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "해머 트롤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Troll marteau"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hammertroll"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "タイタン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Titan"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "泰坦巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "泰坦"
+        },
+        {
+          "Lang": "KR",
+          "Name": "타이탄"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Titan"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Titan"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "カイザートロル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Kaiser Troll"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "凯撒巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "凱撒巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "카이저 트롤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Troll souverain"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kaisertroll"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ギガンテス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gigantes"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "终极巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "終極巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "기간테스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Colosse"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gigant"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マスターギガント"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Master Giant"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巨魔领主"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大巨魔"
+        },
+        {
+          "Lang": "KR",
+          "Name": "마스터 기간트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Maître géant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Meistergigant"
+        }
+      ]
+    },
+    {
+      "ID": "enm003_Troll_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マーダートロル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Murder Troll"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "杀戮巨人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "殺戮巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "머더 트롤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Troll meurtrier"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Mördertroll"
+        }
+      ]
+    },
+    {
+      "ID": "enm004_Hornet_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ホーネット"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hornet"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黄蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黃蜂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "호넷"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Frelon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hornisse"
+        }
+      ]
+    },
+    {
+      "ID": "enm004_Hornet_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "クィーンビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Queen Bee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "女王蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "女王蜂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "퀸 비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Reine des abeilles"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Bienenkönigin"
+        }
+      ]
+    },
+    {
+      "ID": "enm004_Hornet_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "キングビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "King Bee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "国王蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "國王蜂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "킹 비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Roi des abeilles"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Bienenkönig"
+        }
+      ]
+    },
+    {
+      "ID": "enm004_Hornet_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デビルビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Devil Bee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "恶魔蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "惡魔蜂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데빌 비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Abeille diabolique"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Teufelsbiene"
+        }
+      ]
+    },
+    {
+      "ID": "enm005_Spider_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "スパイダー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Spider"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "蜘蛛"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "蜘蛛"
+        },
+        {
+          "Lang": "KR",
+          "Name": "스파이더"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Araignée"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Spinne"
+        }
+      ]
+    },
+    {
+      "ID": "enm005_Spider_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヘルスパイダー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hell Spider"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "地狱蜘蛛"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "地獄蜘蛛"
+        },
+        {
+          "Lang": "KR",
+          "Name": "헬 스파이더"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Araignée infernale"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Höllenspinne"
+        }
+      ]
+    },
+    {
+      "ID": "enm005_Spider_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マスタースパイダー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Master Spider"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "蜘蛛统领"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "蜘蛛王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "마스터 스파이더"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Maîtresse-araignée"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Meisterspinne"
+        }
+      ]
+    },
+    {
+      "ID": "enm006_Panther_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シャドウパンサー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Shadow Panther"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "影豹"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "影豹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "섀도 팬서"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Panthère obscure"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schattenpanther"
+        }
+      ]
+    },
+    {
+      "ID": "enm006_Panther_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ブラッドパンサー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blood Panther"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "血豹"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "血豹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "블러드 팬서"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Panthère sanglante"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blutpanther"
+        }
+      ]
+    },
+    {
+      "ID": "enm006_Panther_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シャイニングパンサー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Shining Panther"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "光辉豹"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "閃光豹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "샤이닝 팬서"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Panthère étincelante"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schimmerpanther"
+        }
+      ]
+    },
+    {
+      "ID": "enm007_Wolf_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シルバーウルフ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Silver Wolf"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "银狼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "銀狼"
+        },
+        {
+          "Lang": "KR",
+          "Name": "실버 울프"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Loup argenté"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Silberwolf"
+        }
+      ]
+    },
+    {
+      "ID": "enm007_Wolf_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハンターウルフ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hunter Wolf"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "猎狼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獵狼"
+        },
+        {
+          "Lang": "KR",
+          "Name": "헌터 울프"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Loup chasseur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Jagdwolf"
+        }
+      ]
+    },
+    {
+      "ID": "enm007_Wolf_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ドラゴンウルフ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dragon Wolf"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "龙狼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "龍狼"
+        },
+        {
+          "Lang": "KR",
+          "Name": "드래곤 울프"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Loup-dragon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Drachenwolf"
+        }
+      ]
+    },
+    {
+      "ID": "enm008_Baffamo_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バッファモー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Buffamoo"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水牛哞哞"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水牛哞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "버팔모"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bufflameuh"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Küffel"
+        }
+      ]
+    },
+    {
+      "ID": "enm008_Baffamo_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バッファロー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Buffaloo"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水牛毛毛"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水牛酪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "버팔로"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bufflo"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Büffel"
+        }
+      ]
+    },
+    {
+      "ID": "enm008_Baffamo_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バッファムー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Buffamore"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水牛姆姆"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水牛姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "버팔매"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bufflamonstre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Küffelo"
+        }
+      ]
+    },
+    {
+      "ID": "enm008_Baffamo_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バッファホーン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Buffahorn"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水牛角角"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水牛角"
+        },
+        {
+          "Lang": "KR",
+          "Name": "버팔혼"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bufflacorne"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Küffelhorn"
+        }
+      ]
+    },
+    {
+      "ID": "enm008_Baffamo_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バッファゼブラ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Buffazebra"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水牛斑斑"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水牛斑馬"
+        },
+        {
+          "Lang": "KR",
+          "Name": "버팔제브라"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bufflazèbre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Küffelzebra"
+        }
+      ]
+    },
+    {
+      "ID": "enm009_Cokehohho_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "コケホッホー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Cluckadoodle"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "咕咕鸡"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "咕咕雞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꼬꼭꼬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cocoriko"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hahnsel"
+        }
+      ]
+    },
+    {
+      "ID": "enm009_Cokehohho_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ホーホー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Mamadoodle"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "喔喔鸡"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨雞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꼭꼬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cocorika"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hahnsel-Mama"
+        }
+      ]
+    },
+    {
+      "ID": "enm009_Cokehohho_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ホロホロ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Chuckadoodle"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "速速鸡"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "珠雞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꼬꼬댁"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cocorigole"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gackerer"
+        }
+      ]
+    },
+    {
+      "ID": "enm009_Cokehohho_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "コケオウム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Parradoodle"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "咕咕鹦鹉"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "咯咯鸚鵡"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꼭꼬앵무"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cocoroquet"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Plapperer"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "チロリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Chipsqueek"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "红松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "紅松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "찌돌이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cureuil"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Knabbel"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "チロンガ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Chippersqueek"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "绒松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "棕松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "찌돌링"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Déchicureuil"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Quietschel"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フワリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Furpy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黄松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黃松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "보들이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Toudou"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Fluffi"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ソロリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Sneaksqueek"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "忍松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "藍松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "슬쩍이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cachecureuil"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schleichel"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "クルリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Munchsqueek"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "馋松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "赤松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "맴돌이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bouffecureuil"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schlemmel"
+        }
+      ]
+    },
+    {
+      "ID": "enm010_Chirori_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "チロリア"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gemsqueek"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "岩松鼠"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "礦石紅松鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "쮜돌이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gemmecureuil"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schatzel"
+        }
+      ]
+    },
+    {
+      "ID": "enm011_Duck_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダック"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Duck"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "嘎咕鸭"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鴨子"
+        },
+        {
+          "Lang": "KR",
+          "Name": "오리"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Coincoin"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Ente"
+        }
+      ]
+    },
+    {
+      "ID": "enm011_Duck_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "グース"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Goose"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "白天鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "天鵝"
+        },
+        {
+          "Lang": "KR",
+          "Name": "구스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Oie"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gans"
+        }
+      ]
+    },
+    {
+      "ID": "enm011_Duck_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヘヴィロビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Round Robin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大黄鸭"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "胖胖知更鳥"
+        },
+        {
+          "Lang": "KR",
+          "Name": "헤비 로비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lourdaud"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Runder Robin"
+        }
+      ]
+    },
+    {
+      "ID": "enm012_Elepan_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "エレパン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Elefun"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "长鼻象"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大象"
+        },
+        {
+          "Lang": "KR",
+          "Name": "코끼리"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Éléfun"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Elefun"
+        }
+      ]
+    },
+    {
+      "ID": "enm012_Elepan_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "サイレントバク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Silent Baku"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "无声食梦兽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "沉默貘"
+        },
+        {
+          "Lang": "KR",
+          "Name": "사일런트 맥"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Baku silencieux"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Leiser Baku"
+        }
+      ]
+    },
+    {
+      "ID": "enm012_Elepan_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マンモー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Mammoth"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "猛犸象"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "長毛象"
+        },
+        {
+          "Lang": "KR",
+          "Name": "맘모"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Mammouth"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Mammut"
+        }
+      ]
+    },
+    {
+      "ID": "enm012_Elepan_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヨロイマンモー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Armored Mammoth"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "铠猛犸象"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鎧甲長毛象"
+        },
+        {
+          "Lang": "KR",
+          "Name": "갑옷 맘모"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Mammouth blindé"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Panzermammut"
+        }
+      ]
+    },
+    {
+      "ID": "enm013_Flower_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フラワーブロッサム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flower Blossom"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "怪怪花"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "怪怪花"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플라워 블로섬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fleur bourgeonnante"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blumenblüte"
+        }
+      ]
+    },
+    {
+      "ID": "enm013_Flower_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フラワーライオン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flower Lion"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "狮子花"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獅子花"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플라워 라이온"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fleur à crinière"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blumenlöwe"
+        }
+      ]
+    },
+    {
+      "ID": "enm013_Flower_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フラワーリリウム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flower Lily"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "百合花"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "百合花"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플라워 리리엄"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fleur mielleuse"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blumenlilie"
+        }
+      ]
+    },
+    {
+      "ID": "enm013_Flower_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フラワークリスタル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flower Crystal"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水晶花"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水晶花"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플라워 크리스털"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fleur cristalline"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blumenkristall"
+        }
+      ]
+    },
+    {
+      "ID": "enm013_Flower_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ピンキュラー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Pinkula"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "粉红妖花"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "花妖"
+        },
+        {
+          "Lang": "KR",
+          "Name": "핑클러"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Rosula"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Pinkula"
+        }
+      ]
+    },
+    {
+      "ID": "enm014_BigMash_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ビッグマッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Big Muck"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大蘑菇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大蘑菇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "빅 머시룸"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Champigéant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Riesenpilz"
+        }
+      ]
+    },
+    {
+      "ID": "enm014_BigMash_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "トリッキーマッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Tricky Muck"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "狡猾蘑菇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "狡猾蘑菇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "트리키 머시룸"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Champinescent"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Täuschpilz"
+        }
+      ]
+    },
+    {
+      "ID": "enm014_BigMash_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デスファンガス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Death Fungus"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡菌菇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡菌"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데스 펑거스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fungi de la mort"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Todespilz"
+        }
+      ]
+    },
+    {
+      "ID": "enm014_BigMash_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ベニテンマッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Toxic Muck"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "毒蝇红伞"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "毒蠅傘蘑菇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "광대 머시룸"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Champivenin"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Giftpilz"
+        }
+      ]
+    },
+    {
+      "ID": "enm015_Sheila_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シーラ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Sealy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "希拉鱼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "希拉魚"
+        },
+        {
+          "Lang": "KR",
+          "Name": "실러"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Foque"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Robby"
+        }
+      ]
+    },
+    {
+      "ID": "enm015_Sheila_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "スカイフィッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Sky Fish"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "天空鱼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "天空魚"
+        },
+        {
+          "Lang": "KR",
+          "Name": "스카이 피쉬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Poisson volant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Himmelsfisch"
+        }
+      ]
+    },
+    {
+      "ID": "enm015_Sheila_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヨロイウオ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Armored Fish"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "铠甲鱼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鎧甲魚"
+        },
+        {
+          "Lang": "KR",
+          "Name": "갑옷 물고기"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Poisson blindé"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Panzerfisch"
+        }
+      ]
+    },
+    {
+      "ID": "enm015_Sheila_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イビルフィッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Evil Fish"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "恶魔鱼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "惡魔魚"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이빌 피쉬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Poisson maléfique"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Bösfisch"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イグニス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ignis"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "火幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "火幽靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이그니스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Flammy"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Ignis"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ツンドラ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Tundra"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "冰幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "冰幽靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "툰드라"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Toundra"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tundra"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "エアラー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Airror"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "风幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "風幽靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "에어러"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Airrant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Luftikus"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガイアス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gaias"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大地幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大地幽靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "가이아스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gaïas"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gaias"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ソイラス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Soyrus"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "暗焰"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "暗炎"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크니스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Soïrus"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Soyrus"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マボロシ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Mirage"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "幻焰"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "幻炎"
+        },
+        {
+          "Lang": "KR",
+          "Name": "환상의 불"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Mirage"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Illusion"
+        }
+      ]
+    },
+    {
+      "ID": "enm016_Ignis_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヒトダマ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Spirit"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "幽靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "도깨비불"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Esprit"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gespenst"
+        }
+      ]
+    },
+    {
+      "ID": "enm017_Ghost_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴースト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ghost"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "鬼魂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鬼魂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고스트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fantômus"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Geist"
+        }
+      ]
+    },
+    {
+      "ID": "enm017_Ghost_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "リッパー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ripper"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "撕裂者"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "撕裂者"
+        },
+        {
+          "Lang": "KR",
+          "Name": "리퍼"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Étripeur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schnitter"
+        }
+      ]
+    },
+    {
+      "ID": "enm017_Ghost_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ネクロ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Necro"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "内克罗"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "內克羅"
+        },
+        {
+          "Lang": "KR",
+          "Name": "네크로"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Nécro"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Nekro"
+        }
+      ]
+    },
+    {
+      "ID": "enm017_Ghost_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ファウスト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Faust"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "法乌斯托"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "法烏斯托"
+        },
+        {
+          "Lang": "KR",
+          "Name": "파우스트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faust"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Faust"
+        }
+      ]
+    },
+    {
+      "ID": "enm017_Ghost_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヘルゴースト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hell Ghost"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "地狱幽灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "地獄鬼魂"
+        },
+        {
+          "Lang": "KR",
+          "Name": "헬 고스트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fantômus infernal"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Höllenphantom"
+        }
+      ]
+    },
+    {
+      "ID": "enm018_Monsterbox_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モンスターボックス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Monster Box"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "魔物箱"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "魔物箱"
+        },
+        {
+          "Lang": "KR",
+          "Name": "몬스터 박스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Boîte à monstre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Monsterkiste"
+        }
+      ]
+    },
+    {
+      "ID": "enm018_Monsterbox_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "パックンボックス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gobble Box"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "贪食箱"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "貪食箱"
+        },
+        {
+          "Lang": "KR",
+          "Name": "날름 박스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Boîte à miam"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Fresskiste"
+        }
+      ]
+    },
+    {
+      "ID": "enm018_Monsterbox_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "サプライズボックス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Surprise Box"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "惊喜箱"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "驚喜箱"
+        },
+        {
+          "Lang": "KR",
+          "Name": "서프라이즈 박스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Boîte à surprise"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Überraschungskiste"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フェアリー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fairy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "小仙子"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "小仙子"
+        },
+        {
+          "Lang": "KR",
+          "Name": "페어리"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faërie"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Fee"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "レッド"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Red"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "红精灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "紅精靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "레드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Carmine"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Rot"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ブルー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blue"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "蓝精灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "藍精靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "블루"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Azurine"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blau"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イエロー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Yellow"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黄精灵"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黃精靈"
+        },
+        {
+          "Lang": "KR",
+          "Name": "옐로"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Safrane"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gelb"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ピクシー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Pixie"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "皮克西"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "皮克西"
+        },
+        {
+          "Lang": "KR",
+          "Name": "픽시"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fée"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Pixie"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハイピクシー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "High Pixie"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "高等皮克西"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "高等皮克西"
+        },
+        {
+          "Lang": "KR",
+          "Name": "하이 픽시"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Haute fée"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hochpixie"
+        }
+      ]
+    },
+    {
+      "ID": "enm019_Fairy_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マスターフェアリー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Master Fairy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "仙王"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "小仙子王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "마스터 페어리"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faërie maîtresse"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Meisterfee"
+        }
+      ]
+    },
+    {
+      "ID": "enm020_Slime_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "スライム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Slime"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "史莱姆"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "史萊姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "슬라임"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Slime"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schleim"
+        }
+      ]
+    },
+    {
+      "ID": "enm020_Slime_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ファイヤースライム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fire Slime"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "火焰史莱姆"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "火焰史萊姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "파이어 슬라임"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Slime de feu"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Feuerschleim"
+        }
+      ]
+    },
+    {
+      "ID": "enm020_Slime_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークスライム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Slime"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗史莱姆"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗史萊姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 슬라임"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Slime obscur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelschleim"
+        }
+      ]
+    },
+    {
+      "ID": "enm021_Mocomoco_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モコモコ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Wooly"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "摩可摩可"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "摩可摩可"
+        },
+        {
+          "Lang": "KR",
+          "Name": "몽실이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lainy"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Wolli"
+        }
+      ]
+    },
+    {
+      "ID": "enm021_Mocomoco_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モフモフ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Shmooly"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "莫夫莫夫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "莫夫莫夫"
+        },
+        {
+          "Lang": "KR",
+          "Name": "뭉실이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lainard"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schmuhli"
+        }
+      ]
+    },
+    {
+      "ID": "enm021_Mocomoco_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モチモチ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fleecy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "摩奇摩奇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "摩吉摩吉"
+        },
+        {
+          "Lang": "KR",
+          "Name": "튼실이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lainon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Vliesli"
+        }
+      ]
+    },
+    {
+      "ID": "enm021_Mocomoco_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モコモコキング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Wooly King"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "摩可摩可王"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "摩可摩可王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "대왕 몽실이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Roi lainy"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Wollikönig"
+        }
+      ]
+    },
+    {
+      "ID": "enm022_Golem_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ミニゴーレム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Little Golem"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "迷你石魔人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "迷你格雷姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "미니 골렘"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Petit golem"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kleiner Golem"
+        }
+      ]
+    },
+    {
+      "ID": "enm022_Golem_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴーレム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Golem"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "石魔人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "格雷姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "골렘"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Golem"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Golem"
+        }
+      ]
+    },
+    {
+      "ID": "enm022_Golem_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガーディアン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Guardian"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "守卫魔人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "守衛"
+        },
+        {
+          "Lang": "KR",
+          "Name": "가디언"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gardien"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Wächter"
+        }
+      ]
+    },
+    {
+      "ID": "enm022_Golem_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "プラチナゴーレム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Platinum Golem"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "白金魔人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "白金格雷姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플래티넘 골렘"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Golem de platine"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Platingolem"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ミニドラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Little Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "小小龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "小小龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "미니 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Petit dragon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kleiner Drache"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "暴黒小龍"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Black Drake"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "暴黑小龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "暴黑小龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "미니 램페이지 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Vouivre noire"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schwarzer Drachling"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "リトルグリモア"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Little Grimoire"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "小克里莫亚"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "小克里莫亞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "리틀 그리모어"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Petit grimoire"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kleines Grimoire"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イエロードラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Yellow Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黄龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黃龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "옐로 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon jaune"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gelber Drache"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "グリーンドラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Green Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "绿龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "綠龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "그린 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon vert"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Grüner Drache"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "レッドドラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Red Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "红龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "紅龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "레드 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon rouge"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Roter Drache"
+        }
+      ]
+    },
+    {
+      "ID": "enm023_MiniDragon_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ブルードラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blue Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "蓝龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "藍龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "블루 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon bleu"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blauer Drache"
+        }
+      ]
+    },
+    {
+      "ID": "enm025_Palmcat_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "パァムキャット"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Palm Cat"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巴姆猫人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巴姆貓人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "팜 캣"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Chat de palme"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Palmkatze"
+        }
+      ]
+    },
+    {
+      "ID": "enm025_Palmcat_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マァムタイガー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Malm Tiger"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "玛姆虎人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "瑪姆虎人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "맘 타이거"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Tigre de malme"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Malmtiger"
+        }
+      ]
+    },
+    {
+      "ID": "enm025_Palmcat_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "レィムレオパード"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Leoplicant"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "莱姆豹人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "萊姆豹人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "림 레오파드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Léoplicant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Leoplikant"
+        }
+      ]
+    },
+    {
+      "ID": "enm025_Palmcat_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "リィムライオン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Lyplicant"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "利姆狮人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "莉姆獅人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "림 라이온"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lionplicant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Löplikant"
+        }
+      ]
+    },
+    {
+      "ID": "enm026_Salene_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "セイレーン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Siren"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "塞壬"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "賽蓮"
+        },
+        {
+          "Lang": "KR",
+          "Name": "세이렌"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Sirène"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Sirene"
+        }
+      ]
+    },
+    {
+      "ID": "enm026_Salene_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シークイーン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Sea Queen"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "海女王"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "海之女王"
+        },
+        {
+          "Lang": "KR",
+          "Name": "시 퀸"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Reine des mers"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Seekönigin"
+        }
+      ]
+    },
+    {
+      "ID": "enm026_Salene_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ローレライ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Lorelei"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "罗蕾莱"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "羅蕾萊"
+        },
+        {
+          "Lang": "KR",
+          "Name": "로렐라이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Loreleï"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Lorelei"
+        }
+      ]
+    },
+    {
+      "ID": "enm026_Salene_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マーメイド"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Mermaid"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "人鱼"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "人魚"
+        },
+        {
+          "Lang": "KR",
+          "Name": "머메이드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Sirène"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Meerjungfrau"
+        }
+      ]
+    },
+    {
+      "ID": "enm027_Pengi_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ペンギー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Emperor Penguin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "类企鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "企鵝"
+        },
+        {
+          "Lang": "KR",
+          "Name": "펭귀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Manchot empereur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kaiserpinguin"
+        }
+      ]
+    },
+    {
+      "ID": "enm027_Pengi_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イワトビペンギー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Rockhopper Penguin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "跳岩类企鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "跳岩企鵝"
+        },
+        {
+          "Lang": "KR",
+          "Name": "바위뛰기 펭귀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Manchot des rochers"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Felsenpinguin"
+        }
+      ]
+    },
+    {
+      "ID": "enm027_Pengi_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "モグー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Moleguin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "潜水类企鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鼴鼠"
+        },
+        {
+          "Lang": "KR",
+          "Name": "모구"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Manchot taupe"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Molguin"
+        }
+      ]
+    },
+    {
+      "ID": "enm027_Pengi_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ライチョウ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Boltguin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "雷电类企鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "岩雷鳥"
+        },
+        {
+          "Lang": "KR",
+          "Name": "뇌조"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Manchot éclair"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Boltguin"
+        }
+      ]
+    },
+    {
+      "ID": "enm027_Pengi_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イビルペンギー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Evil Penguin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "恶魔类企鹅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "惡魔企鵝"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이빌 펭귀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Manchot maléfique"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Böser Pinguin"
+        }
+      ]
+    },
+    {
+      "ID": "enm028_Kerori_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ケロリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ribbitee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "呱呱丽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "凱羅利"
+        },
+        {
+          "Lang": "KR",
+          "Name": "개굴링"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Coapaud"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kerori"
+        }
+      ]
+    },
+    {
+      "ID": "enm028_Kerori_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "はなのようせい"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Timidee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "花仙子"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "花妖精"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꽃의 요정"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Coatimide"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Scheui"
+        }
+      ]
+    },
+    {
+      "ID": "enm028_Kerori_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ケロリハンター"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ribbitee Hunter"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "呱呱丽猎手"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "凱羅利獵手"
+        },
+        {
+          "Lang": "KR",
+          "Name": "개굴링 헌터"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Chasseur coapaud"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kerori-Jäger"
+        }
+      ]
+    },
+    {
+      "ID": "enm028_Kerori_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "コロリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Croakitee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "滚滚丽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "滾滾利"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데굴이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Coasseur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Krächzer"
+        }
+      ]
+    },
+    {
+      "ID": "enm028_Kerori_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バタリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Amphibitee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "啪嗒丽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "昏睡利"
+        },
+        {
+          "Lang": "KR",
+          "Name": "꽈당이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Amphibius"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Amphibiti"
+        }
+      ]
+    },
+    {
+      "ID": "enm029_Cat_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゴロニャ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Meowly"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "歌罗猫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "歌羅喵"
+        },
+        {
+          "Lang": "KR",
+          "Name": "고롱이"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Miaouly"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Mauzel"
+        }
+      ]
+    },
+    {
+      "ID": "enm029_Cat_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "カーバンクル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Carbuncle"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "宝石猫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "寶石獸"
+        },
+        {
+          "Lang": "KR",
+          "Name": "카벙클"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Escarboucle"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Karfunkel"
+        }
+      ]
+    },
+    {
+      "ID": "enm029_Cat_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ワイルドキャット"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Wildcat"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "狂野猫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "狂野貓"
+        },
+        {
+          "Lang": "KR",
+          "Name": "와일드 캣"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Chat sauvage"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Wildkatze"
+        }
+      ]
+    },
+    {
+      "ID": "enm029_Cat_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "コーリング"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Meowling"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "召唤猫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "呼喚貓"
+        },
+        {
+          "Lang": "KR",
+          "Name": "콜링"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Miaouling"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Miauling"
+        }
+      ]
+    },
+    {
+      "ID": "enm030_Dog_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガルル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Growler"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "加鲁鲁犬"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "加魯魯"
+        },
+        {
+          "Lang": "KR",
+          "Name": "으르렁"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Grogneur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Knurrer"
+        }
+      ]
+    },
+    {
+      "ID": "enm030_Dog_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "スナッチ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Snatcher"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "史纳奇犬"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "史納奇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "스내치"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Happeur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Reißer"
+        }
+      ]
+    },
+    {
+      "ID": "enm030_Dog_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ライラプス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Laelaps"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "莱拉普斯犬"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "萊拉普斯"
+        },
+        {
+          "Lang": "KR",
+          "Name": "라일랍스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lélaps"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Laelaps"
+        }
+      ]
+    },
+    {
+      "ID": "enm030_Dog_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガルム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Garmr"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "加鲁姆犬"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "加姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데스독"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Garmr"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Garmer"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "魔法遣い"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Magician"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "魔法师"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "魔法師"
+        },
+        {
+          "Lang": "KR",
+          "Name": "마법사"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Magicien"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Magier"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "エレメンタラー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Elementalist"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "元素使"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "元素術師"
+        },
+        {
+          "Lang": "KR",
+          "Name": "엘리멘탈 위자드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Élémentaliste"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Elementariker"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ウイッチ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Witch"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巫师"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "女巫"
+        },
+        {
+          "Lang": "KR",
+          "Name": "위치"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Sorcière"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hexe"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ハイソーサラー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "High Sorcerer"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大魔法师"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "高等魔法師"
+        },
+        {
+          "Lang": "KR",
+          "Name": "하이 소서러"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Haut sorcier"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hochmagier"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークソーサラー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Sorcerer"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗法师"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗魔法師"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 소서러"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Sorcier des ténèbres"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelmagier"
+        }
+      ]
+    },
+    {
+      "ID": "enm031_Wizard_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デスウイッチ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Death Witch"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡巫师"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡女巫"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데스 위치"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Sorcière de la mort"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Todeshexe"
+        }
+      ]
+    },
+    {
+      "ID": "enm032_Insect_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "インセクト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Insect"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "小甲虫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "硬殼蟲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "인섹트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Insecte"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Insekt"
+        }
+      ]
+    },
+    {
+      "ID": "enm032_Insect_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ホタルビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Firefly Bee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "萤火蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "螢光蟲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "반딧불 비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Abeille luciole"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Glühbiene"
+        }
+      ]
+    },
+    {
+      "ID": "enm032_Insect_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "リトルバグ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Little Bug"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "小爬虫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "小小蟲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "리틀 버그"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Petit insecte"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kleiner Käfer"
+        }
+      ]
+    },
+    {
+      "ID": "enm032_Insect_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ジャイアンドバグ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Giant Bug"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巨爬虫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨大蟲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "자이언트 버그"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Insecte géant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Riesenkäfer"
+        }
+      ]
+    },
+    {
+      "ID": "enm032_Insect_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダイヤモンドビー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Diamond Bee"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "钻石蜂"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "鑽石蟲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다이아몬드 비"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Insecte de diamant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Diamantbiene"
+        }
+      ]
+    },
+    {
+      "ID": "enm033_Griffon_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "グリフォン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Griffin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "狮鹫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "獅鷲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "그리핀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Griffon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Greif"
+        }
+      ]
+    },
+    {
+      "ID": "enm033_Griffon_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヒポグリフ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hippogriff"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "骏鹰"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "駿鷹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "히포그리프"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Hippogriffe"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hippogreif"
+        }
+      ]
+    },
+    {
+      "ID": "enm033_Griffon_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "フレイムグリフォン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flame Griffin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "火焰狮鹫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "烈焰獅鷲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플레임 그리핀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Griffon de feu"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Flammengreif"
+        }
+      ]
+    },
+    {
+      "ID": "enm033_Griffon_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "アイスグリフォン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ice Griffin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "寒冰狮鹫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "寒冰獅鷲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "아이스 그리핀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Griffon de glace"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Eisgreif"
+        }
+      ]
+    },
+    {
+      "ID": "enm033_Griffon_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "キラーグリフォン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Killer Griffin"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "灭绝狮鹫"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "殺戮獅鷲"
+        },
+        {
+          "Lang": "KR",
+          "Name": "킬러 그리핀"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Griffon tueur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Killergreif"
+        }
+      ]
+    },
+    {
+      "ID": "enm034_YasaiMonster_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イミティカブキ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fake Turnip"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "拟态芜菁"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "蕪菁偽裝怪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이미테이션 순무"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faux navet"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Scheinrübe"
+        }
+      ]
+    },
+    {
+      "ID": "enm034_YasaiMonster_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イミティピーマ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fake Green Pepper"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "拟态青椒"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "青椒偽裝怪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이미테이션 피망"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faux poivron"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Grüne Scheinpaprika"
+        }
+      ]
+    },
+    {
+      "ID": "enm034_YasaiMonster_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イミティトマト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fake Tomato"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "拟态番茄"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "番茄偽裝怪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이미테이션 토마토"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fausse tomate"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Scheintomate"
+        }
+      ]
+    },
+    {
+      "ID": "enm034_YasaiMonster_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イミティオニオ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fake Onion"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "拟态洋葱"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "洋蔥偽裝怪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이미테이션 어니언"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Faux oignon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Scheinzwiebel"
+        }
+      ]
+    },
+    {
+      "ID": "enm034_YasaiMonster_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "イミティプラント"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fake Plant"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "拟态茄子"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "茄子偽裝怪"
+        },
+        {
+          "Lang": "KR",
+          "Name": "이미테이션 플랜트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Fausse plante"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Scheinpflanze"
+        }
+      ]
+    },
+    {
+      "ID": "boss001_kyubi_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "キュウビ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Nine-Tailed Fox"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "九尾"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "九尾"
+        },
+        {
+          "Lang": "KR",
+          "Name": "구미호"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Renard à neuf queues"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Fuchsgeist"
+        }
+      ]
+    },
+    {
+      "ID": "boss002_kamereon_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ミステリアスリザード"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Mysterious Lizard"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "神秘蜥蜴"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "神祕蜥蜴"
+        },
+        {
+          "Lang": "KR",
+          "Name": "미스테리어스 리저드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lézard mystérieux"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Geheimnisvolle Echse"
+        }
+      ]
+    },
+    {
+      "ID": "boss002_kamereon_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークリザード"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Lizard"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗蜥蜴"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗蜥蜴"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 리자드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lézard obscur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelechse"
+        }
+      ]
+    },
+    {
+      "ID": "boss003_hasibirokou_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シューベルト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Shoebert"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "鲸头鹳"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "舒伯特"
+        },
+        {
+          "Lang": "KR",
+          "Name": "슈베르트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Choubert"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schuhbert"
+        }
+      ]
+    },
+    {
+      "ID": "boss003_hasibirokou_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークペリンカー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Pelinkar"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗鹈鹕"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "黑暗佩林卡"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 페링카"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Pelinkar obscur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkelpelikar"
+        }
+      ]
+    },
+    {
+      "ID": "boss004_gansekidragon_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ドラゴンゴーレム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dragon Golem"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "石魔龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "格雷姆龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "드래곤 골렘"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Vouivre de pierre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Drachengolem"
+        }
+      ]
+    },
+    {
+      "ID": "boss004_gansekidragon_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ドラゴンボルケーノ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Volcanic Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "火山龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "火山龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "드래곤 볼케이노"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon volcanique"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Vulkanischer Drache"
+        }
+      ]
+    },
+    {
+      "ID": "boss005_skulldragon_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "スカルドラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Skull Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "骨龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "骷髏龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "스컬 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon-squelette"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schädeldrache"
+        }
+      ]
+    },
+    {
+      "ID": "boss005_skulldragon_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "プラチナスカルドラゴン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Platinum Skull Dragon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "白金骨龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "白金骷髏龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "플래티넘 스컬 드래곤"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon-squelette de platine"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Platin-Schädeldrache"
+        }
+      ]
+    },
+    {
+      "ID": "boss006_cerberus_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ケルベロス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Cerberus"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "刻耳柏洛斯"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "刻耳柏洛斯"
+        },
+        {
+          "Lang": "KR",
+          "Name": "케르베로스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Cerbère"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Zerberus"
+        }
+      ]
+    },
+    {
+      "ID": "boss006_cerberus_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガロン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Garon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "加隆"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "加隆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "가론"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Garon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Garon"
+        }
+      ]
+    },
+    {
+      "ID": "boss007_kurage_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "メデゥーサ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Medusa"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "美杜莎"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "梅杜莎"
+        },
+        {
+          "Lang": "KR",
+          "Name": "메두사"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Méduse"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Medusa"
+        }
+      ]
+    },
+    {
+      "ID": "boss007_kurage_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ギルティクリムゾン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Guilty Crimson"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "深红之罪"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "罪惡赤紅水母"
+        },
+        {
+          "Lang": "KR",
+          "Name": "길티 크림슨"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Carmin peccant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Karmesinschuldiger"
+        }
+      ]
+    },
+    {
+      "ID": "boss008_hekatonkeil_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヘカトンケイル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hecatonchire"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "赫克顿盖尔"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "百臂巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "헤카톤케일"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Hécatonchire "
+        },
+        {
+          "Lang": "DE",
+          "Name": "Hecatoncheire "
+        }
+      ]
+    },
+    {
+      "ID": "boss008_hekatonkeil_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ブレイジングケイル"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blazing Hecatonchire"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "爆裂盖尔"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "烈焰巨人"
+        },
+        {
+          "Lang": "KR",
+          "Name": "블레이징케일"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Hécatonchire ardent"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Loderhecatoncheire"
+        }
+      ]
+    },
+    {
+      "ID": "boss009_mummy_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ドラゴンマミー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dragon Mummy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "木乃伊龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "木乃伊龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "드래곤 머미"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Dragon-momie"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Drachenmumie"
+        }
+      ]
+    },
+    {
+      "ID": "boss009_mummy_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ギガドラゴンマミー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Giga Dragon Mummy"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "木乃伊巨龙"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨大木乃伊龍"
+        },
+        {
+          "Lang": "KR",
+          "Name": "기가 드래곤 머미"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Giga dragon-momie"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Giga-Drachenmumie"
+        }
+      ]
+    },
+    {
+      "ID": "boss010_yadokari_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヘル・ヤドカーリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Hell's Pincers"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "地狱・寄居蟹"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "地獄寄居蟹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "지옥의 소라게"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Tenailles infernales"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Höllenkneifer"
+        }
+      ]
+    },
+    {
+      "ID": "boss010_yadokari_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "シザー・ヤドカーイ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Crown Pincers"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "铁钳・寄居蟹"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "剪刀手寄居蟹"
+        },
+        {
+          "Lang": "KR",
+          "Name": "시저 크랩"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Tenailles de la couronne"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Kronenschere"
+        }
+      ]
+    },
+    {
+      "ID": "boss011_audmura_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "アウドムラ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Audumbla"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "奥德姆拉"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "歐德姆布拉"
+        },
+        {
+          "Lang": "KR",
+          "Name": "아우둠라"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Audhumla"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Audumbla"
+        }
+      ]
+    },
+    {
+      "ID": "boss011_audmura_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "グレートアウドムラ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Great Audumbla"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巨型奥德姆拉"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨無霸歐德姆布拉"
+        },
+        {
+          "Lang": "KR",
+          "Name": "그레이트 아우둠라"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Grande Audhumla"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Groß-Audumbla"
+        }
+      ]
+    },
+    {
+      "ID": "boss012_harinezumi_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ニードルビースト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Needle Beast"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "刺针兽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "針猛獸"
+        },
+        {
+          "Lang": "KR",
+          "Name": "니들 비스트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Monstre à aiguilles"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Nadelbestie"
+        }
+      ]
+    },
+    {
+      "ID": "boss012_harinezumi_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "マーダービースト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Murder Beast"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "杀戮兽"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "殺戮猛獸"
+        },
+        {
+          "Lang": "KR",
+          "Name": "머더 비스트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bête meurtrière"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Mörderbestie"
+        }
+      ]
+    },
+    {
+      "ID": "boss013_aries_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "アリエス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Aries"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "阿莉耶丝"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "牡羊座"
+        },
+        {
+          "Lang": "KR",
+          "Name": "아리에스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Bélier"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Widder"
+        }
+      ]
+    },
+    {
+      "ID": "boss013_aries_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ダークドリーム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Dream"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "暗黑梦魇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "深暗夢境"
+        },
+        {
+          "Lang": "KR",
+          "Name": "다크 드림"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Mauvais rêve"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkeltraum"
+        }
+      ]
+    },
+    {
+      "ID": "boss014_reviatan_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "レヴィアタン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Leviathan"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "利维坦"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "利維亞坦"
+        },
+        {
+          "Lang": "KR",
+          "Name": "레비아탄"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Léviathan"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Leviathan"
+        }
+      ]
+    },
+    {
+      "ID": "boss014_reviatan_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ティアマト"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Tiamat"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "提阿玛特"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "提亞瑪特"
+        },
+        {
+          "Lang": "KR",
+          "Name": "티아마트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Tiamat"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tiamat"
+        }
+      ]
+    },
+    {
+      "ID": "boss015_basilisk_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "バジリスク"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Basilisk"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "翼蜥"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "翼蜥"
+        },
+        {
+          "Lang": "KR",
+          "Name": "바실리스크"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Basilic"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Basilisk"
+        }
+      ]
+    },
+    {
+      "ID": "boss015_basilisk_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ナーガ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Naga"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "娜迦"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "那伽"
+        },
+        {
+          "Lang": "KR",
+          "Name": "나가"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Naga"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Naga"
+        }
+      ]
+    },
+    {
+      "ID": "boss016_inosisi_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デスハバリ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Death Lance"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡豹纹猪"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡野豬"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데스 와일드"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Lance fatale"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Todeslanze"
+        }
+      ]
+    },
+    {
+      "ID": "boss016_inosisi_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ナイトラッシュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Night Rush"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "暗夜冲击"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "暗夜野豬"
+        },
+        {
+          "Lang": "KR",
+          "Name": "나이트 러쉬"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Apparition nocturne"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Nachtrausch"
+        }
+      ]
+    },
+    {
+      "ID": "boss017_deadtree_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デッドツリー改"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Deader Tree"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡树改"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡樹改"
+        },
+        {
+          "Lang": "KR",
+          "Name": "강화형 데드 트리"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Arbre re-mort"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gestorbener Baum"
+        }
+      ]
+    },
+    {
+      "ID": "boss017_deadtree_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デッドツリー改・弐"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Deadest Tree"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡树改・二式"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡樹改．貳"
+        },
+        {
+          "Lang": "KR",
+          "Name": "강화형 데드 트리 2"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Arbre mortissime"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gefallener Baum"
+        }
+      ]
+    },
+    {
+      "ID": "boss018_ghosthorseknight_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": ""
+        },
+        {
+          "Lang": "EN",
+          "Name": ""
+        },
+        {
+          "Lang": "ZH",
+          "Name": ""
+        },
+        {
+          "Lang": "ZK",
+          "Name": ""
+        },
+        {
+          "Lang": "KR",
+          "Name": ""
+        },
+        {
+          "Lang": "FR",
+          "Name": ""
+        },
+        {
+          "Lang": "DE",
+          "Name": ""
+        }
+      ]
+    },
+    {
+      "ID": "boss018_ghosthorseknight_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": ""
+        },
+        {
+          "Lang": "EN",
+          "Name": ""
+        },
+        {
+          "Lang": "ZH",
+          "Name": ""
+        },
+        {
+          "Lang": "ZK",
+          "Name": ""
+        },
+        {
+          "Lang": "KR",
+          "Name": ""
+        },
+        {
+          "Lang": "FR",
+          "Name": ""
+        },
+        {
+          "Lang": "DE",
+          "Name": ""
+        }
+      ]
+    },
+    {
+      "ID": "boss019_sasquatch_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガイザーベア"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Geyser Bear"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "凯撒熊"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "凱薩熊"
+        },
+        {
+          "Lang": "KR",
+          "Name": "가이저 베어"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Ours geyser"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Geysirbär"
+        }
+      ]
+    },
+    {
+      "ID": "boss019_sasquatch_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "グリーンカイザー"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Green Kaiser"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "绿凯撒熊"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "綠色凱薩"
+        },
+        {
+          "Lang": "KR",
+          "Name": "그린 카이저"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Kaiser vert"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Grüner Kaiser"
+        }
+      ]
+    },
+    {
+      "ID": "boss020_aracne_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "アラクネ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Arachne"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "阿拉克涅"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "阿剌克涅"
+        },
+        {
+          "Lang": "KR",
+          "Name": "아라크네"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Arachné"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Arachne"
+        }
+      ]
+    },
+    {
+      "ID": "boss020_aracne_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "デスリバース"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Lurking Death"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "死亡重生"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "死亡反轉"
+        },
+        {
+          "Lang": "KR",
+          "Name": "데스 리버스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Morôdeur"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Lauernder Tod"
+        }
+      ]
+    },
+    {
+      "ID": "boss021_ouroboros_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ウロボロス"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Uroboros"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "衔尾蛇"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "銜尾蛇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "우로보로스"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Ouroboros"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Uroboros"
+        }
+      ]
+    },
+    {
+      "ID": "boss021_ouroboros_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "リンカネーション"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Reincarnation"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "轮回转生"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "轉世銜尾蛇"
+        },
+        {
+          "Lang": "KR",
+          "Name": "리인카네이션"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Réincarnation"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Reinkarnation"
+        }
+      ]
+    },
+    {
+      "ID": "boss022_kraken_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "クラーケン"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Kraken"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "克拉肯"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "克拉肯"
+        },
+        {
+          "Lang": "KR",
+          "Name": "크라켄"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Kraken"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Krake"
+        }
+      ]
+    },
+    {
+      "ID": "boss024_woodgolem_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ウッドゴーレム"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Wood Golem"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "树魔人"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "木頭格雷姆"
+        },
+        {
+          "Lang": "KR",
+          "Name": "우드 골렘"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Golem de bois"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Holzgolem"
+        }
+      ]
+    },
+    {
+      "ID": "boss025_dragonsister_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "レーヴァディア"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Umbradea"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "蕾瓦迪亚"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "蕾瓦迪亞"
+        },
+        {
+          "Lang": "KR",
+          "Name": "레바디아"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Umbradea"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Umbradea"
+        }
+      ]
+    },
+    {
+      "ID": "boss026_lastboss_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ヤミより出でしモノ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "The Fathomless Dread"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "黑暗来客"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "來自深暗之物"
+        },
+        {
+          "Lang": "KR",
+          "Name": "심연을 기어나온 혼돈"
+        },
+        {
+          "Lang": "FR",
+          "Name": "L'insondable effroi"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Unergr. Schrecken"
+        }
+      ]
+    },
+    {
+      "ID": "boss027_gandage_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ガンドアージュ"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gideon"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "冈多亚杰"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "岡多亞傑"
+        },
+        {
+          "Lang": "KR",
+          "Name": "간디지"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Gideon"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gideon"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_01",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "ゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "传送门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "게이트"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_02",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "火のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Fire Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "火之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "火之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "불의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de feu"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Feuertor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_03",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "水のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Water Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "水之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "水之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "물의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail d'eau"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Wassertor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_04",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "地のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Field Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "地之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "地之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "땅의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail champêtre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Feldtor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_05",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "風のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Wind Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "风之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "風之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "바람의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail du vent"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Windtor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_06",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "光のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Light Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "光之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "光之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "빛의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de lumière"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Lichttor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_07",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "闇のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Dark Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "暗之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "暗之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "어둠의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des ténèbres"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Dunkeltor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_08",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "愛のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Love Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "爱之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "愛之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "사랑의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de l'amour"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Liebestor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_09",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "無のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Void Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "无之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "無之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "허무의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail du néant"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tor der Leere"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_10",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "炎のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flame Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "烈焰之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "烈焰之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "불꽃의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des flammes"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Flammentor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_11",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "氷のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Ice Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "寒冰之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "寒冰之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "얼음의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de glace"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Eistor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_12",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "大地のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Earth Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "大地之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "大地之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "대지의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de terre"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Erdtor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_13",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "嵐のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Storm Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "飓风之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "颶風之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "폭풍의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de la tempête"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Sturmtor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_14",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "閃光のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Flash Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "闪光之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "閃光之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "섬광의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail d'éclair"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Blitztor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_15",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "漆黒のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Black Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "漆黑之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "漆黑之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "칠흑의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail noir"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Schwarzes Tor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_16",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "慈愛のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Affection Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "慈爱之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "慈愛之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "자애의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de l'affection"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Zuneigungstor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_17",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "大きなゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Towering Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "巨大之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "巨大之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "커다란 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Haut portail"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Gewaltiges Tor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_18",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "焔のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blaze Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "炎焰之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "炎焰之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "광염의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail du brasier"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Infernotor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_19",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "氷結のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Frozen Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "冰冻之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "冰凍之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "빙결의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail gelé"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Frosttor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_20",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "星のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Star Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "星之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "星之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "별의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des étoiles"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Sterntor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_21",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "竜巻のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Tornado Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "龙卷之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "龍捲之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "돌풍의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail de la tornade"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tornadotor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_22",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "天使のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Angel Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "天使之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "天使之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "천사의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des anges"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Engelstor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_23",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "深淵のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Abyss Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "深渊之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "深淵之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "심연의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail abyssal"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Abbadontor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_24",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "最愛のゲート"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Precious Gate"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "深爱之门"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "深愛之門"
+        },
+        {
+          "Lang": "KR",
+          "Name": "애정의 문"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail précieux"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Geliebtes Tor"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_25",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "無のゲート（無効）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Void Gate (No Effect)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "无之门（无效）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "無之門（無效）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "허무의 문(무효)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail du néant (sans effet)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tor der Leere (Kein Effekt)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_26",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "焔のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Blaze Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "炎焰之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "炎焰之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "광염의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail du brasier (absorption)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Infernotor (Absorbiert)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_27",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "氷結のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Frozen Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "冰冻之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "冰凍之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "빙결의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail gelé (absorption)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Frosttor (Absorbiert)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_28",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "星のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Star Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "星之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "星之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "별의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des étoiles (absorption)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Sterntor (Absorbiert)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_29",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "竜巻のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Tornado Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "龙卷之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "龍捲之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "돌풍의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Port. tornade (abs.)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Tornadotor (Abs.)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_30",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "天使のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Angel Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "天使之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "天使之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "천사의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail des anges (absorption)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Engelstor (Absorbiert)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_31",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "深淵のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Abyss Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "深渊之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "深淵之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "심연의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Portail abyssal (absorption)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Abbadontor (Abs.)"
+        }
+      ]
+    },
+    {
+      "ID": "gate001_GateEnemy_32",
+      "LocalizedValues": [
+        {
+          "Lang": "JP",
+          "Name": "慈愛のゲート（吸収）"
+        },
+        {
+          "Lang": "EN",
+          "Name": "Affection Gate (Absorb)"
+        },
+        {
+          "Lang": "ZH",
+          "Name": "慈爱之门（吸收）"
+        },
+        {
+          "Lang": "ZK",
+          "Name": "慈愛之門（吸收）"
+        },
+        {
+          "Lang": "KR",
+          "Name": "자애의 문(흡수)"
+        },
+        {
+          "Lang": "FR",
+          "Name": "Port. d'affection (abs.)"
+        },
+        {
+          "Lang": "DE",
+          "Name": "Zuneigungstor (Abs.)"
+        }
+      ]
+    }
+  ]
+}
